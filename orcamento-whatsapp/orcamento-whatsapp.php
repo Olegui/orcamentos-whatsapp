@@ -82,7 +82,7 @@ function solicitar_orcamento_shortcode($atts) {
 
     if (!empty($phone_number)) {
         $atts = shortcode_atts(array(
-            'message' => 'Olá! Gostaria de fazer um orçamento deste produto:'. "\n",
+            'message' => 'Olá! Gostaria de fazer um orçamento deste produto:'."\n",
         ), $atts);
 
         $post_link = get_permalink();
