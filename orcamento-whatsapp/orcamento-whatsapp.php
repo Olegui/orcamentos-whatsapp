@@ -1,9 +1,11 @@
 <?php
 /*
-Plugin Name: Orçamentos por WhatsApp
+Plugin Name: Orçamentos WA
 Description: Adiciona um botão para enviar mensagem no WhatsApp em cada post.
 Version: 1.0
 Author: Guilherme Afonso [guilhermeafonso.dev.br]
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
 
 function enqueue_plugin_styles() {
@@ -80,7 +82,7 @@ function solicitar_orcamento_shortcode($atts) {
 
     if (!empty($phone_number)) {
         $atts = shortcode_atts(array(
-            'message' => 'Olá!+Gostaria+de+fazer+o+orçamento+deste+produto.',
+            'message' => 'Olá! Gostaria de fazer um orçamento deste produto:'. "\n",
         ), $atts);
 
         $post_link = get_permalink();
