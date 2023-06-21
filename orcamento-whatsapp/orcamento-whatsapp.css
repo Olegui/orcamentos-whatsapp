@@ -1,0 +1,62 @@
+/* Estilização para o painel administrativo do plugin */
+
+/* Estilo para o header do formulário */
+.orcamento-button-form-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilo para o título do plugin */
+.orcamento-button-form-header h1 {
+    font-size: 24px;
+}
+
+/* Estilo para o formulário */
+.orcamento-button-form-container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+/* Estilo para os campos de configurações */
+.orcamento-button-form-container input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+}
+
+/* Estilo para o botão de submit */
+.orcamento-button-form-container .submit-button {
+    margin-top: 20px;
+}
+
+.orcamento-button{
+    background: #25d366;
+    color: #FFF;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    clear: both;
+}
+.orcamento-button i{
+    font-size: 20px;
+}
+
+/* CENTRALIZAR O PLUGIN DE ORÇAMENTO */
+.orcamento-button-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.orcamento-button-container::before{
+    content: '';
+    display: block;
+    margin: 15px 0;
+    width: 100%;
+    height: 2px;
+    background: var(--cor4);
+    border-radius: 10px;
+}
