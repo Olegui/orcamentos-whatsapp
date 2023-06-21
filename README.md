@@ -1,5 +1,5 @@
 
-## Orçamento WhatsApp (WordPress)
+## 🤑 Orçamento WhatsApp (WordPress)
 
 O Plugin de Solicitação de Orçamentos via WhatsApp é uma ferramenta poderosa e conveniente para negócios que desejam facilitar o processo de solicitação de orçamentos por parte dos usuários do WordPress. Com este plugin fácil de usar, você pode adicionar um botão personalizado em qualquer local do seu site para que os visitantes possam entrar em contato diretamente pelo WhatsApp e solicitar orçamentos.
 
@@ -9,7 +9,7 @@ Este plugin de WordPress oferece uma integração perfeita com o WhatsApp e não
 
 Ofereça uma experiência de usuário aprimorada aos visitantes do seu site e simplifique o processo de solicitação de orçamentos com o Plugin de Solicitação de Orçamentos via WhatsApp. Aumente suas chances de fechar negócios e estabeleça um canal de comunicação direto e eficiente com seus clientes.
 
-## Instalação
+## 💾 Instalação
 A instalação do Plugin de Solicitação de Orçamentos via WhatsApp é rápida e simples. Siga os passos abaixo para adicionar o botão de solicitação de orçamento ao seu site WordPress:
 
 1. Faça o download do plugin em formato ZIP no site oficial do WordPress ou através do diretório de plugins do WordPress.
@@ -18,7 +18,7 @@ A instalação do Plugin de Solicitação de Orçamentos via WhatsApp é rápida
 4. Clique no botão "Enviar Plugin" e selecione o arquivo ZIP que você baixou anteriormente.
 5. Após o upload ser concluído, clique em "Ativar Plugin".
 
-## Usando o plugin
+## 💡 Usando o plugin
 Agora que o plugin está instalado e ativado, você pode adicionar o botão de solicitação de orçamento ao local desejado em seu site. Para fazer isso, siga as etapas abaixo:
 
 1. Abra o editor de postagens ou páginas do WordPress onde você deseja adicionar o botão.
